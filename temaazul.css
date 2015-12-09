@@ -9,7 +9,7 @@
 /* Main Menu (left) */
 #main-menu-left a.room-active-link {
         color: #00bae2;
-    box-shadow: inset 4px 0px 0px 0px #ff7cb3
+    box-shadow: inset 4px 0px 0px 0px #00bae2
 }
  
 #header-global .header-left-navigation:after {
@@ -37,7 +37,7 @@ a, a:active, a:focus, a:hover,
 #private-messages .main-message-list .message-header a, #private-messages .message-details .message-header a,
 #private-messages .message-details ul.message-list li.message-item .message-content h3,
 #private-messages .private-message-details-info, #private-messages .private-message-info {
-        color: #ff7cb3;
+        color: #00bae2;
 }
 #private-messages .loading {
         background: #00bae2;
@@ -378,7 +378,7 @@ span.usernameContainer, .followers-counter,
         color: #00bae2;
 }
 #profileMainSection .profileView .infoProfile .edit-btn, #profileMainSection .profileView .infoProfile .follow-btn {
-        color: #ff7cb3;
+        color: #00bae2;
         border: 2px solid #00bae2;
 }
 #profileMainSection .profileView .header .pictureContainer .updatePictureGif {

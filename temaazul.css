@@ -169,7 +169,7 @@ span.name,
         color: rgb(170, 170, 170);
 }
 #chat .chat-container ul.chat-main li .activity-row .text span.username-handle[style="color: rgba(255, 0, 255, 0.8);"] {
-    color: #1a1a1a !important;
+    color: #FFDD6F !important;
 }
 #chat .chat-container .chat-messages .chat-main li.chat-system-loading, #chat .chat-container .chat-messages .chat-main li.chat-welcome-message, #chat .chat-container .chat-messages .chat-main li.system, #chat .chat-container .chat-messages .chat-main li.system-error {
         font-size: 14px;

@@ -379,12 +379,12 @@ span.usernameContainer, .followers-counter,
 }
 #profileMainSection .profileView .infoProfile .edit-btn, #profileMainSection .profileView .infoProfile .follow-btn {
         color: #42A5DC;
-        border: 2px solid #ff7cb3;
+        border: 2px solid #42A5DC;
 }
 #profileMainSection .profileView .header .pictureContainer .updatePictureGif {
         width: 101%;
         height 101%;
-        background: #42a5dc;
+        background: #42A5DC;
 }
 #user_popover .actions, #user_popover .global-actions, #user_popover {
         background: #42A5DC;

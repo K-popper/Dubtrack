@@ -9,7 +9,7 @@
 /* Main Menu (left) */
 #main-menu-left a.room-active-link {
 	color: #42A5DC;
-    box-shadow: inset 4px 0px 0px 0px #AA74FE
+    box-shadow: inset 4px 0px 0px 0px #42A5DC
 }
 
 #header-global .header-left-navigation:after {
@@ -378,7 +378,7 @@ span.usernameContainer, .followers-counter,
 	color: #42A5DC;
 }
 #profileMainSection .profileView .infoProfile .edit-btn, #profileMainSection .profileView .infoProfile .follow-btn {
-	color: #AA74FE;
+	color: #42A5DC;
 	border: 2px solid #42A5DC;
 }
 #profileMainSection .profileView .header .pictureContainer .updatePictureGif {
